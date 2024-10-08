@@ -1,0 +1,48 @@
+.statistics {
+  margin-top: 20px;
+  /* margin-left: 100px; */
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+}
+
+.statList {
+  display: flex;
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  gap: 0px;
+}
+
+.item {
+  padding: 10px;
+  background-color: red;
+}
+
+.label {
+  display: block;
+  font-size: 14px;
+}
+
+.percentage {
+  font-size: 18px;
+  font-weight: bold;
+}
+.itemColor0 {
+  background-color: #1c7ed6;
+}
+
+.itemColor1 {
+  background-color: purple;
+}
+
+.itemColor2 {
+  background-color: #ff6b6b;
+}
+
+.itemColor3 {
+  background-color: green;
+}
