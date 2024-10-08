@@ -1,10 +1,10 @@
 import Profile from './Profile';
-import user from '../components/user.json';
-import statsData from '../components/data.json';
+import user from '../user.json';
+import statsData from '../data.json';
 import Statistics from './Statistics';
 import FriendList from './FriendList';
-import friends from '../components/friends.json';
-import transactions from '../components/transactions.json';
+import friends from '../friends.json';
+import transactions from '../transactions.json';
 import TransactionHistory from './TransactionHistory';
 
 function App() {
